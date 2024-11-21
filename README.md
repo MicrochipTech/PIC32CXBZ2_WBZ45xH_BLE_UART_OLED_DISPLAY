@@ -740,7 +740,7 @@ Follow the steps provided in the link to [program the precompiled hex file](http
 
 The application folder can be found by navigating to the following path: 
 
-- "WBZ451HPE_OLED_BLE_UART\firmware\WBZ451HPE_OLED_BLE_UART.X"
+- "WBZ451HPE_OLED_BLE_UART\firmware\WBZ451HPE_OLED.X"
 
 Follow the steps provided in the link to [Build and program the application](https://github.com/Microchip-MPLAB-Harmony/wireless_apps_pic32cxbz2_wbz45/tree/master/apps/ble/advanced_applications/ble_sensor#build-and-program-the-application-guid-3d55fb8a-5995-439d-bcd6-deae7e8e78ad-section).
 
